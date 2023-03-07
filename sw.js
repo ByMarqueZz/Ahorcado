@@ -1,4 +1,4 @@
-const cacheName = 'PWA Test';
+const cacheName = 'marquez';
 
 // Cache all the files to make a PWA
 self.addEventListener('install', e => {
